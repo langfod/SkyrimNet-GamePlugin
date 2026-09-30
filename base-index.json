@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-30T08:26:06.473Z",
+  "tree_path": "plugins/skyrimnet/base",
+  "entries": [
+    {
+      "version": "0.25.3",
+      "commit": "a2f1288ac7803b52447f4e5938729bcc11388c62",
+      "min_skyrimnet_version": "0.25.0",
+      "date": "2026-09-30T08:26:06.473Z"
+    }
+  ]
+}
